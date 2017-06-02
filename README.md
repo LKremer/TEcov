@@ -19,6 +19,8 @@ TEcov requires [Python3.4+](https://www.python.org/downloads/) and the Python pa
 
 `pip3 install pyfaidx`
 
+You also need to [install bedtools](http://bedtools.readthedocs.io/en/latest/content/installation.html).
+
 
 Usage
 ------------
